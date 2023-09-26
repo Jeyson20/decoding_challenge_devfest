@@ -1,4 +1,4 @@
-## Description challenge
+## Description
 
 Challenge Details:
 The Code: Here's a string that contains a secret message:
